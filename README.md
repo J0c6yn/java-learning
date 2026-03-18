@@ -15,7 +15,7 @@ Before this I only knew basic HTML.
 - **Exploring IT: Java Programming Grade 12** by Faranani - my school textbook 
 - **Exploring IT: Theory Grade 12** by Faranani - my school textbook
 - My school lectures at Brainline Cloud School
-- Building my PAT project [Simunye](https://github.com/j0c6yn/simunye) 
+- Building my PAT project [Simunye](https://github.com/J0c6yn/simunye) 
 ---
 
 ## Projects so far
