@@ -23,7 +23,6 @@ Before this I only knew basic HTML.
 | Project | What I practised | Status |
 |---------|-----------------|--------|
 | Shopping Cart | Variables, data types, Scanner input, basic arithmetic, println | Done |
-| Mad libs game... | | In progress |
 
 ---
 
